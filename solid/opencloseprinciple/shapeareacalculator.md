@@ -21,6 +21,6 @@ Triangle Area: 25
 
 
 Edge cases:
-- Circle radius is zero.
+- Circle radius is zero. 
 - Rectangle has a negative length.
 - Triangle has invalid dimensions.
